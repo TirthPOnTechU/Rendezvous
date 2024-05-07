@@ -2,13 +2,6 @@
 
 YOUTUBE URL: https://youtu.be/yBHMpPWUB7w
 
-Group members:
-
-Tirth Patel (TirthPOnTechU)
-Nisarg Bhatt (Nisarg27)
-Setu Patel (Setuuu)
-Deepan Patel (deepan-patel)
-Tharuni Iranjan (TharuniI)
 ABOUT RENDEVOUS:
 
 Rendevous is an event app where anyone can create an event that they want to share with others. This can be a party, conference, competition,etc. The following describes the main use case for the app we currently have. A user registers for the app and verifies their email from their email account and then comes back and sign in with those credentials. After signing up/in, you are prompted with additional signup information such as username, phone number and also a profile picture. Don't worry, first time users have an easy get around the app! An introduction screen is placed there for any new users to get a rundown of how Rendevous works.
